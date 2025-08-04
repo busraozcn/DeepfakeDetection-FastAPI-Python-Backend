@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+facenet-pytorch
+grad-cam
+gradio
+pillow
+opencv-python
+loger
